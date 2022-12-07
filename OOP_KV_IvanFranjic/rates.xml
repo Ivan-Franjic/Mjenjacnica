@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <valuta Naziv="Australski dolar" ISO_code="AUD" Drzava="Australija" Iznos="4.625137" Datum="31/5/2019"/>
+    <valuta Naziv="Kanadski dolar" ISO_code="CAD" Drzava="Kanada" Iznos="4.910336" Datum="31/5/2019"/>
+    <valuta Naziv="Ceska kruna" ISO_code="CZK" Drzava="Ceska" Iznos="0.288117" Datum="31/5/2019"/>
+    <valuta Naziv="Danska kruna" ISO_code="DKK" Drzava="Danska" Iznos="0.991933" Datum="31/5/2019"/>
+    <valuta Naziv="Madarska forinta" ISO_code="HUF" Drzava="Madarska" Iznos="2.288981" Datum="31/5/2019"/>
+    <valuta Naziv="Japanski jen" ISO_code="JPY" Drzava="Japan" Iznos="5.973840" Datum="31/5/2019"/>
+    <valuta Naziv="Norveska kruna" ISO_code="NOK" Drzava="Norveska" Iznos="0.755698" Datum="31/5/2019"/>
+    <valuta Naziv="Svedska kruna" ISO_code="SEK" Drzava="Svedska" Iznos="0.690141" Datum="31/5/2019"/>
+    <valuta Naziv="Svicarski franak" ISO_code="CHF" Drzava="Svicarska" Iznos="6.499754" Datum="31/5/2019"/>
+    <valuta Naziv="Britanska funta" ISO_code="GBP" Drzava="Velika Britanija" Iznos="8.605170" Datum="31/5/2019"/>
+    <valuta Naziv="Americki dolar" ISO_code="USD" Drzava="SAD" Iznos="6.615282" Datum="31/5/2019"/>
+    <valuta Naziv="Srpski dinar" ISO_code="RSD" Drzava="Srbija" Iznos="0.065549" Datum="31/5/2019"/>
+    <valuta Naziv="Konvertibilna marka" ISO_code="BAM" Drzava="Bosna i Hercegovina" Iznos="3.864712" Datum="31/5/2019"/>
+    <valuta Naziv="Euro" ISO_code="EUR" Drzava="EU" Iznos="7.406470" Datum="31/5/2019"/>
+    <valuta Naziv="Poljska zlota" ISO_code="PLN" Drzava="Poljska" Iznos="1.725766" Datum="31/5/2019"/>
+</data>

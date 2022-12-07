@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Korisnici>
+    <korisnik ime="Ivan" prezime="Franjic" korisnicko_ime="ivan.franjic" lozinka= "123"/>
+    <korisnik ime="Matej" prezime="Matic" korisnicko_ime="matej.matic" lozinka= "54321"/>
+    <korisnik ime="Kristina" prezime="Kinic" korisnicko_ime="kristina.kinic" lozinka= "13245"/>
+    <korisnik ime="Luka" prezime="Lukic" korisnicko_ime="luka.lukic" lozinka= "42345"/>
+    <korisnik ime="Dalibor" prezime="Dale" korisnicko_ime="dalibor.dale" lozinka= "43239"/>
+  </Korisnici>
+</data>
